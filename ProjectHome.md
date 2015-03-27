@@ -1,0 +1,1 @@
+A simple plugin that turns a list of images into a timeline
